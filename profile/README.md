@@ -1,5 +1,5 @@
 ## Hello, welcome to Bunkankun
-This is the back office of Bunkankun, where all the good stuff is cooked.  The texts will appear in a related place called bkk-books. 
+This is the back office of Bunkankun, where all the good stuff is cooked.  The texts will appear in a related place called `bkk-books`. 
 
 <!--
 
